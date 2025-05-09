@@ -1,6 +1,4 @@
 # Optimisation des Modèles de Deep Learning : Pruning et Quantization  
-**Auteur** : [Votre Nom]  
-**Date** : [Date]  
 **Technologies** : TensorFlow, Keras, TensorFlow Model Optimization  
 
 ---
